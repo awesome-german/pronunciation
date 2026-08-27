@@ -4,6 +4,15 @@
 
 German pronunciation can be challenging for non-native speakers, but with the right resources and consistent practice, anyone can master the sounds of the German language. This comprehensive guide brings together the best tools, courses, dictionaries, exercises, and communities to help you on your journey to perfect German pronunciation.
 
+<!-- BEGIN gh-mutual-linking -->
+
+### Related projects
+
+- [**kana-transliterator**](https://github.com/html-js/kana-transliterator) — Single-file browser tool that transliterates Japanese kana into Cyrillic (Polivanov), Hepburn, French, and German
+- [**text-to-speech**](https://github.com/didvc/text-to-speech) — 🎤 VoiceFlow - Modern text-to-speech web application with real-time word highlighting, customizable voice settings, and content management. Built…
+- [**multi-timer-audio-recorder**](https://github.com/didvc/multi-timer-audio-recorder) — Unified controls for stopwatch, timer, and audio recording. Perfect for interviews, workouts, cooking, and productivity sessions.
+<!-- END gh-mutual-linking -->
+
 ## Contents
 
 - [Learning Guides and Courses](#learning-guides-and-courses)
