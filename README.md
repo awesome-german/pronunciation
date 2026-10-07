@@ -4,15 +4,6 @@
 
 German pronunciation can be challenging for non-native speakers, but with the right resources and consistent practice, anyone can master the sounds of the German language. This comprehensive guide brings together the best tools, courses, dictionaries, exercises, and communities to help you on your journey to perfect German pronunciation.
 
-<!-- BEGIN gh-mutual-linking -->
-
-### Related projects
-
-- [**kana-transliterator**](https://github.com/html-js/kana-transliterator) — Single-file browser tool that transliterates Japanese kana into Cyrillic (Polivanov), Hepburn, French, and German
-- [**text-to-speech**](https://github.com/didvc/text-to-speech) — 🎤 VoiceFlow - Modern text-to-speech web application with real-time word highlighting, customizable voice settings, and content management. Built…
-- [**multi-timer-audio-recorder**](https://github.com/didvc/multi-timer-audio-recorder) — Unified controls for stopwatch, timer, and audio recording. Perfect for interviews, workouts, cooking, and productivity sessions.
-<!-- END gh-mutual-linking -->
-
 ## Contents
 
 - [Learning Guides and Courses](#learning-guides-and-courses)
@@ -768,6 +759,12 @@ German pronunciation can be challenging for non-native speakers, but with the ri
 
 ---
 
+## Disclaimer
+
+This independent, curated list points to third-party resources. None of the projects, publishers, platforms or organizations it links to have affiliated with, sponsored or endorsed it, and all names and trademarks belong to their owners.
+
+Other people run the linked sites, so their content, availability, prices and terms can change at any time. A listing here doesn't guarantee a resource's accuracy, safety or quality, so check each resource's own terms before you use it or pay for anything. Corrections and removal requests are welcome as issues.
+
 ## Contributing
 
 Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
@@ -777,3 +774,21 @@ If you know of a great resource for German pronunciation that's not listed here,
 ---
 
 **Note:** This is a curated list focused on German pronunciation resources. For general German learning resources, see [Awesome German](https://github.com/willianpaixao/awesome-german).
+
+## License
+
+The text of this list is licensed under [CC BY 4.0](LICENSE). Linked resources are covered by their own licenses and terms.
+
+Copyright © 2025-2026 Aesthetic Vulpes ([github.com/didvc](https://github.com/didvc)). If you reuse or cite this list, credit Aesthetic Vulpes and link to this repository. Citation metadata is in [CITATION.cff](CITATION.cff).
+
+<!-- BEGIN gh-mutual-linking -->
+
+---
+
+### Related projects
+
+- [phonetics](https://github.com/awesome-german/phonetics): IPA-based German pronunciation guides.
+- [speaking](https://github.com/awesome-german/speaking): Resources and methods to improve spoken German, pronunciation, and real-life conversation skills.
+- [youtube](https://github.com/awesome-german/youtube): Best YouTube channels for learning German through engaging video content, lessons, and real-life dialogues.
+
+<!-- END gh-mutual-linking -->
